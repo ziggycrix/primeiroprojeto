@@ -1,0 +1,11 @@
+#python
+
+lista = [1, 2, 3, 4, 5]
+
+add_valor = 10
+
+for i in range(len(lista))
+    i += add_valor
+
+print(lista)
+ 
