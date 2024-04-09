@@ -1,0 +1,1 @@
+lista = ['Sixtematico', '1Bala', 'meia bala']
